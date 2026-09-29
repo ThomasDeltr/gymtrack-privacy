@@ -1,0 +1,2 @@
+# gymtrack-privacy
+Gymtrack policy
